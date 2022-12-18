@@ -1,0 +1,10 @@
+dim 30 30 30
+putsphere 17 11 15 8 0 0 1 1
+putsphere 4 15 15 3 0.95 0.95 1 1
+putellipsoid 17 5 15 4 2 4 1 1 1 1
+putellipsoid 17 15 15 6 4 5 1 1 1 1
+putellipsoid 15 11 15 6 7 6 0 1 0 1
+putellipsoid 17 11 16 6 7 7 0 1 0 1
+putellipsoid 19 11 15 6 7 5 0 1 0 1
+
+
